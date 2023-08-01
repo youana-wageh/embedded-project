@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\flasher\code\Flasher.mcppi
+Project1=project.mcppi
+[ActiveProject]
+Index=1

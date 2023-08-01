@@ -1,0 +1,7 @@
+main
+	__CC2DW
+		____DoICP
+	counter
+		Div_8X8_S
+interrupt
+	Div_8X8_S
